@@ -1,0 +1,6 @@
+<p>
+  <b>
+    <isprint value="${Resource.msg('dlt.productname','dlt', null)}" />
+  </b>
+  <isprint value="${pdict.Product.name}" />
+</p>
